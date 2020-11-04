@@ -1,0 +1,9 @@
+ROUTINE aaa
+aaa
+	s a=1
+	b
+	s b=2
+	b
+	w a
+	w b
+	w b
